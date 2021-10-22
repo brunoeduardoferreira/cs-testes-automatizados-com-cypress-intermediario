@@ -3,7 +3,7 @@
 <h1 align="center"> Curso Udemy - Testes automatizados com Cypress (intermediário) </h1>
 
 ## 🚀 Sobre o Testes
-Será desenvolvida uma palicação de testes com cypress que efetuará testes de GUI no gitalb CE que está hoepedado no container do docker, 
+Será desenvolvida uma aplicação de testes com cypress que efetuará testes de GUI no gitalb CE que está hoepedado no container do docker, 
 
 ## Ferramentas e Bibliotecas
 
